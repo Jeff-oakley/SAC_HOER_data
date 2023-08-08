@@ -1,4 +1,4 @@
-# Dataset of C-doped graphene based single atom catalysts (M@C<sub>(4-x)</sub>N<sub>x</sub>)
+# Dataset of N-doped graphene based single atom catalysts (M@C<sub>(4-x)</sub>N<sub>x</sub>)
 
 In our work of [Design principle of carbon supported single atom catalyst – interplay between d-band periodicity and local hybridization](to_be_added), we 
 developed a computational dataset with 140 catalysts and 560 adsorption energies. Based on such dataset, we have established
