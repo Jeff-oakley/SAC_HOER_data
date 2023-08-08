@@ -24,7 +24,7 @@ The raw DFT data, have been preprared and dumped in `./RawData` folder
 #### Script for reproducing the results of our paper:
 
 ## Citing
-We offer such dataset for the transparency of research. Whenever our repo can be useful for you, 
+We offer such dataset for promoting the transparency of research. Whenever our repo can be useful for you, 
 please consider cite our paper
 ```
 @article{SAC_HEOR,
