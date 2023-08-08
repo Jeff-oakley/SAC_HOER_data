@@ -1,7 +1,9 @@
-# Dataset of C-doped graphene based single atom catalysts
+# Dataset of C-doped graphene based single atom catalysts (M@C<sub>(4-x)</sub>N<sub>x</sub>)
 
 In our work of [Design principle of carbon supported single atom catalyst – interplay between d-band periodicity and local hybridization](to_be_added), we 
-developed a computational dataset with 140 catalysts and 540 adsorption energies
+developed a computational dataset with 140 catalysts and 540 adsorption energies. Based on such dataset, we have established
+ a design principle for understanding the catalytic process M@C<sub>(4-x)</sub>N<sub>x</sub>. For promoting the transparency
+of our research, we have open sourced all our DFT data in this Github Repo
 
 ## Free energy diagram
 The free energy diagram of HER and OER processes have been demonstrated in `./predicted_performance/FreeEnergy`
