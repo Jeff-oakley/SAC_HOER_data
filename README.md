@@ -6,10 +6,14 @@ developed a computational dataset with 140 catalysts and 560 adsorption energies
 of our research, we have open sourced all our DFT data in this Github Repo
 
 ## Free energy diagram
-The free energy diagram of HER and OER processes have been demonstrated in `./predicted_performance/FreeEnergy`
+The free energy diagram of HER and OER processes have been dumped in `./predicted_performance/FreeEnergy`
 
 ## Overpotential map
 The map of overpotentials of HER and ORR reactions as being shown in our research paper has been demonstrated in `./predicted_performance/overpotential`
+
+## Interactive dataset
+The interactive version of the dataset is available as [HER Free Energy](https://jeff-oakley.github.io/SAC_HOER_data/heatmap_HER.html)
+and [ORR Free Energy](https://jeff-oakley.github.io/SAC_HOER_data/heatmap_ORRR.html)
 
 ## Raw DFT data
 The raw DFT data, have been preprared and dumped in `./RawData` folder
