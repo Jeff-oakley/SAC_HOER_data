@@ -13,7 +13,7 @@ The map of overpotentials of HER and ORR reactions as being shown in our researc
 
 ## Interactive dataset
 The interactive version of the dataset is available as [HER Free Energy](https://jeff-oakley.github.io/SAC_HOER_data/heatmap_HER.html)
-and [ORR Free Energy](https://jeff-oakley.github.io/SAC_HOER_data/heatmap_ORRR.html)
+and [ORR Free Energy](https://jeff-oakley.github.io/SAC_HOER_data/heatmap_ORR.html)
 
 ## Raw DFT data
 The raw DFT data, have been preprared and dumped in `./RawData` folder
