@@ -34,7 +34,7 @@ please consider cite our paper
 @article{SAC_HEOR,
   title={Design principle of carbon supported single atom catalyst – interplay between d-band periodicity and local hybridization},
   author={He, Zhengda and Wang, Jingyang and Ouyang, Bin},
-  journal={XXXXXX},
+  journal={https://doi.org/10.26434/chemrxiv-2023-19xvv},
   year={2023}
 }
 ```
